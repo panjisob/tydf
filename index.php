@@ -23,7 +23,7 @@ if(empty($_SESSION['namauser'])){
 
     <!-- Bootstrap core CSS -->
 <!-- <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet"> -->
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.5/css/bootstrap.min.css" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
       .bd-placeholder-img {
