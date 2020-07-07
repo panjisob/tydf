@@ -133,9 +133,11 @@ iframe {
 .limiter {
   width: 100%;
   margin: 0 auto;
+  background: #1288ac;
+  display: flex;
 }
 
-.container-login100 {
+.container-register100 {
   width: 100%;  
   min-height: 100vh;
   display: -webkit-box;
