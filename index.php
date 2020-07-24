@@ -22,8 +22,7 @@ if(empty($_SESSION['namauser'])){
     <!-- <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/dashboard/"> -->
 
     <!-- Bootstrap core CSS -->
-<!-- <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet"> -->
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/dist/css/bootstrap.css" rel="stylesheet">
 
     <style>
       .bd-placeholder-img {
